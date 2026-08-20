@@ -33,5 +33,5 @@ print(a, b, c)
 
 """
 # list로 변환
-list(map(int, input().split()))
-print(a, type(a))
+an = list(map(int, input().split()))
+print(an, type(an))
